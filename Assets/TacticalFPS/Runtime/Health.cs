@@ -21,5 +21,4 @@ namespace TacticalFPS
         }
         public void Heal(float amount) { if (!Dead && amount > 0) Current = Mathf.Min(Maximum, Current + amount); }
     }
-    public sealed class HitZone : MonoBehaviour { public bool Head; }
 }
