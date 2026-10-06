@@ -1,0 +1,1 @@
+{"name": "TacticalFPS.Tests", "references": ["TacticalFPS.Runtime"], "optionalUnityReferences": ["TestAssemblies"], "includePlatforms": ["Editor"]}
